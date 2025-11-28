@@ -34,8 +34,8 @@ To write a Java program to solve the **0/1 Knapsack problem using the Branch & B
 ```java
 /*
 Program to implement Knapsack Problem
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: V RAKSHA DHARANIKA
+Register Number: 212223230167
 */
 
 import java.util.*;
